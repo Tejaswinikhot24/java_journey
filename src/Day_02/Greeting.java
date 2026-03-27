@@ -1,5 +1,5 @@
 // 2.Take name as input and print a greeting message for that particular name.
-
+package Day_02;
 import java.util.Scanner;
 
 public class Greeting{

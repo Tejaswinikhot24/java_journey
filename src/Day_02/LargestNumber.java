@@ -1,4 +1,5 @@
 // 5.Take 2 numbers as input and print the largest number.
+package Day_02;
 import java.util.Scanner;
 public class LargestNumber {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
 // 6.Input currency in rupees and output in USD.
+package Day_02;
 import java.util.Scanner;
 
 public class CurrancyConvert {
