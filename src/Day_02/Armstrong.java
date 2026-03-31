@@ -7,7 +7,7 @@ public class Armstrong {
         
         int num = sc.nextInt();
         System.out.println("Enter a number");
-        int temp = num;
+        int original = num;
         int sum = 0;
 
 
@@ -18,7 +18,7 @@ public class Armstrong {
                 num = num / 10;
             }
 
-        if (sum == temp) {
+        if (sum == original) {
             System.out.println("Armstong");
         } else {
             System.out.println("Not Armstong");
